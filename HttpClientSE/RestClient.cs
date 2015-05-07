@@ -30,7 +30,7 @@ namespace HttpClientSE
         /// <param name="password">Password</param>
         /// <returns>T</returns>
         [UsedImplicitly]
-        public static async Task<IList<T>> QueryGet<T>(this HttpClient httpClient, string actionUrl, string userName = null, string password = null) where T : class
+        public static async Task<IList<T>> QueryGet<T>(this HttpClient httpClient, string actionUrl, string userName = null, string password = null) 
         {
             if (httpClient == null)
                 throw new ArgumentNullException("httpClient");
