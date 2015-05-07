@@ -1,0 +1,15 @@
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\bin\Release\ConsoleHttpClient.exe.config
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\bin\Release\ConsoleHttpClient.exe
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\bin\Release\ConsoleHttpClient.pdb
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\bin\Release\Newtonsoft.Json.dll
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\bin\Release\System.Net.Http.Extensions.dll
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\bin\Release\System.Net.Http.Formatting.dll
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\bin\Release\System.Net.Http.Primitives.dll
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\bin\Release\Newtonsoft.Json.xml
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\bin\Release\System.Net.Http.Extensions.xml
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\bin\Release\System.Net.Http.Formatting.xml
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\bin\Release\System.Net.Http.Primitives.xml
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\obj\Release\ConsoleHttpClient.csproj.App.config
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\obj\Release\ConsoleHttpClient.csprojResolveAssemblyReference.cache
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\obj\Release\ConsoleHttpClient.exe
+D:\TFS\TEMP\ConsoleApplication4\ConsoleHttpClient\obj\Release\ConsoleHttpClient.pdb

@@ -1,0 +1,1 @@
+D:\K0VCS_TFS\Avtomir.BaseLib.NET\Avtomir.Infrastructure.BaseLib.3.2.0-Dev\Infrastructure.ObjectExtension\obj\Release\Infrastructure.ObjectExtension.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\HttpClientSE.dll.config
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\HttpClientSE.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\HttpClientSE.pdb
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\JetBrains.Annotations.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\Newtonsoft.Json.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\System.Net.Http.Extensions.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\System.Net.Http.Formatting.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\System.Net.Http.Primitives.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\JetBrains.Annotations.xml
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\Newtonsoft.Json.xml
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\System.Net.Http.Extensions.xml
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\System.Net.Http.Formatting.xml
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\bin\Debug\System.Net.Http.Primitives.xml
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\obj\Debug\HttpClientSE.csproj.App.config
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\obj\Debug\HttpClientSE.csprojResolveAssemblyReference.cache
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\obj\Debug\HttpClientSE.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\HttpClientSE\obj\Debug\HttpClientSE.pdb

@@ -1,0 +1,37 @@
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\DemoWebApi.dll.config
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\DemoWebApi.dll
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\DemoWebApi.pdb
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\Newtonsoft.Json.dll
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\System.Net.Http.Formatting.dll
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\System.Web.Http.dll
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\System.Web.Http.WebHost.dll
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\System.Net.Http.Formatting.xml
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\System.Web.Http.xml
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\System.Web.Http.WebHost.xml
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\Newtonsoft.Json.xml
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\obj\Release\DemoWebApi.csprojResolveAssemblyReference.cache
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\obj\Release\DemoWebApi.dll
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\obj\Release\DemoWebApi.pdb
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\JetBrains.Annotations.dll
+D:\TFS\TEMP\ConsoleApplication4\DemoWebApi\bin\JetBrains.Annotations.xml
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\bin\DemoWebApi.dll.config
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\bin\DemoWebApi.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\bin\DemoWebApi.pdb
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\bin\Newtonsoft.Json.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\bin\System.Net.Http.Formatting.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\bin\System.Web.Http.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\bin\System.Web.Http.WebHost.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\bin\JetBrains.Annotations.xml
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\bin\Newtonsoft.Json.xml
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\bin\System.Net.Http.Formatting.xml
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\bin\System.Web.Http.xml
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\bin\System.Web.Http.WebHost.xml
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\obj\Release\DemoWebApi.csprojResolveAssemblyReference.cache
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\obj\Release\DemoWebApi.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoWebApi\obj\Release\DemoWebApi.pdb
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\DemoWebApi\bin\DemoWebApi.dll.config
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\DemoWebApi\bin\DemoWebApi.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\DemoWebApi\bin\DemoWebApi.pdb
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\DemoWebApi\obj\Release\DemoWebApi.csprojResolveAssemblyReference.cache
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\DemoWebApi\obj\Release\DemoWebApi.dll
+D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\DemoWebApi\obj\Release\DemoWebApi.pdb

@@ -1,0 +1,6 @@
+07.05.2015 13:19:04	This log contains information about the import schema operation into project 'SMP' on computer 'KR-SHULYAKOVSKY' by user 'shulyakovsky.e.a'.
+07.05.2015 13:19:09	Import of database schema has started.
+07.05.2015 13:19:09	Unable to resolve 'SMP'.
+07.05.2015 13:19:09	Finished importing database.
+07.05.2015 13:19:09	A summary of the import was saved to the following location: D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\SMP\Import Schema Logs\SMP_20150507101904.log
+07.05.2015 13:19:09	Click Finish to continue...

@@ -1,0 +1,72 @@
+07.05.2015 13:19:29	This log contains information about the import schema operation into project 'SMP' on computer 'KR-SHULYAKOVSKY' by user 'shulyakovsky.e.a'.
+07.05.2015 13:19:29	Import of database schema has started.
+07.05.2015 13:19:35	Gathering database options
+07.05.2015 13:19:35	Gathering users
+07.05.2015 13:19:35	Gathering roles
+07.05.2015 13:19:35	Gathering application roles
+07.05.2015 13:19:35	Gathering role memberships
+07.05.2015 13:19:35	Gathering filegroups
+07.05.2015 13:19:35	Gathering full-text catalogs
+07.05.2015 13:19:35	Gathering assemblies
+07.05.2015 13:19:35	Gathering certificates
+07.05.2015 13:19:35	Gathering asymmetric keys
+07.05.2015 13:19:35	Gathering symmetric keys
+07.05.2015 13:19:35	Gathering encrypted symmetric keys
+07.05.2015 13:19:35	Gathering schemas
+07.05.2015 13:19:35	Gathering XML schema collections
+07.05.2015 13:19:35	Gathering user-defined data types
+07.05.2015 13:19:35	Gathering user-defined types
+07.05.2015 13:19:35	Gathering table types
+07.05.2015 13:19:35	Gathering unique keys for table types
+07.05.2015 13:19:35	Gathering primary keys for table types
+07.05.2015 13:19:35	Gathering check constraints for table types
+07.05.2015 13:19:35	Gathering default constraints for table types
+07.05.2015 13:19:35	Gathering partition functions
+07.05.2015 13:19:35	Gathering partition schemes
+07.05.2015 13:19:35	Gathering functions
+07.05.2015 13:19:35	Gathering encrypted functions
+07.05.2015 13:19:35	Gathering aggregates
+07.05.2015 13:19:35	Gathering procedures
+07.05.2015 13:19:35	Gathering encrypted procedures
+07.05.2015 13:19:35	Gathering tables
+07.05.2015 13:19:35	Gathering primary keys
+07.05.2015 13:19:35	Gathering unique constraints
+07.05.2015 13:19:35	Gathering foreign keys
+07.05.2015 13:19:35	Gathering default constraints
+07.05.2015 13:19:35	Gathering check constraints
+07.05.2015 13:19:35	Gathering views
+07.05.2015 13:19:35	Gathering encrypted views
+07.05.2015 13:19:35	Gathering indexes
+07.05.2015 13:19:35	Gathering statistics
+07.05.2015 13:19:35	Gathering full-text index stoplists
+07.05.2015 13:19:35	Gathering search property lists
+07.05.2015 13:19:35	Gathering search properties
+07.05.2015 13:19:35	Gathering full-text indexes
+07.05.2015 13:19:35	Gathering column store indexes
+07.05.2015 13:19:35	Gathering spatial indexes
+07.05.2015 13:19:35	Gathering XML indexes
+07.05.2015 13:19:35	Gathering encrypted triggers
+07.05.2015 13:19:35	Gathering triggers
+07.05.2015 13:19:35	Gathering encrypted and clr ddl triggers
+07.05.2015 13:19:35	Gathering ddl triggers
+07.05.2015 13:19:35	Gathering synonyms
+07.05.2015 13:19:35	Gathering defaults
+07.05.2015 13:19:35	Gathering data constraint uddt bindings
+07.05.2015 13:19:35	Gathering rules
+07.05.2015 13:19:35	Gathering data constraint uddt bindings
+07.05.2015 13:19:35	Gathering message types
+07.05.2015 13:19:35	Gathering queues
+07.05.2015 13:19:35	Gathering contracts
+07.05.2015 13:19:35	Gathering services
+07.05.2015 13:19:35	Gathering event notifications
+07.05.2015 13:19:35	Gathering remote service bindings
+07.05.2015 13:19:35	Gathering broker priorities
+07.05.2015 13:19:35	Gathering signatures
+07.05.2015 13:19:35	Gathering data compression options
+07.05.2015 13:19:35	Gathering sequence types
+07.05.2015 13:19:35	Gathering extended properties
+07.05.2015 13:19:35	Scanning project for duplicate elements
+07.05.2015 13:19:35	Finished duplicate element processing
+07.05.2015 13:19:38	Finished importing database.
+07.05.2015 13:19:38	A summary of the import was saved to the following location: D:\K0VCS_TFS\Avtomir.ProjectDemoWare\Asp.NET Web API\DemoApiInMemory\DemoApiInMemory\SMP\Import Schema Logs\SMP_20150507101929.log
+07.05.2015 13:19:38	Click Finish to continue...
