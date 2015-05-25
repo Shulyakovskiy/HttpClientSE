@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using JetBrains.Annotations;
 using Newtonsoft.Json;
 
-namespace HttpClientSE
+namespace SEA.HttpClientSE
 {
     [UsedImplicitly]
     public static class RestClient
@@ -28,9 +28,10 @@ namespace HttpClientSE
         /// <param name="actionUrl">Action URL call method</param>
         /// <param name="userName">Login</param>
         /// <param name="password">Password</param>
+        /// <param name="credential">Impersonate Windows Credential </param>
         /// <returns>T</returns>
         [UsedImplicitly]
-        public static async Task<IList<T>> QueryGet<T>(this HttpClient httpClient, string actionUrl, string userName = null, string password = null) 
+        public static async Task<IList<T>> QueryGet<T>(this HttpClient httpClient, string actionUrl, string userName = null, string password = null, bool credential = false)
         {
             if (httpClient == null)
                 throw new ArgumentNullException("httpClient");
@@ -40,7 +41,7 @@ namespace HttpClientSE
 
             try
             {
-                using (httpClient = new HttpClient())
+                using (httpClient = new HttpClient(new HttpClientHandler { UseDefaultCredentials = credential }))
                 {
                     httpClient.BaseAddress = new Uri(BaseAddress);
                     httpClient.DefaultRequestHeaders.Accept.Clear();
@@ -81,9 +82,10 @@ namespace HttpClientSE
         /// <param name="entity">Entity</param>
         /// <param name="userName">Login</param>
         /// <param name="password">Password</param>
+        /// <param name="credential">Impersonate Windows Credential </param>
         /// <returns>HttpResponseMessage</returns>
         [UsedImplicitly]
-        public static async Task<HttpResponseMessage> QueryPost<T>(this HttpClient httpClient, string actionUrl, T entity, string userName = null, string password = null) where T : class, new()
+        public static async Task<HttpResponseMessage> QueryPost<T>(this HttpClient httpClient, string actionUrl, T entity, string userName = null, string password = null, bool credential = false) where T : class ,new()
         {
             if (httpClient == null)
                 throw new ArgumentNullException("httpClient");
@@ -96,7 +98,7 @@ namespace HttpClientSE
 
             try
             {
-                using (httpClient = new HttpClient())
+                using (httpClient = new HttpClient(new HttpClientHandler { UseDefaultCredentials = credential }))
                 {
                     httpClient.BaseAddress = new Uri(BaseAddress);
                     httpClient.DefaultRequestHeaders.Accept.Clear();
